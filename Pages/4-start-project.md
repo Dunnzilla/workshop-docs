@@ -1,4 +1,4 @@
-.# Chapter 3: Starting The Project
+.# Chapter 4: Starting The Project
 
 ### Creating a Clojure project
 
